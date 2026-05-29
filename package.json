@@ -1,0 +1,12 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static site served via a zero-dependency Node server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
